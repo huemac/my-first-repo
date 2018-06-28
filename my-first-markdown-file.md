@@ -1,3 +1,3 @@
 This is some **bold** text
 
-More text with a link to [microsoft.com](https:/www.microsoft.com)
+More text with a link to [microsoft.com](https://www.microsoft.com)
